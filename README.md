@@ -1,0 +1,2 @@
+# Scrooge-coin
+ centralized cryptocurrency
